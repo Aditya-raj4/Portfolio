@@ -741,7 +741,7 @@ header .navbar ul li a:hover {
 .work .desc .btns .btn:hover {
   background: #310ae0f5;
 }
-.work .viewall {
+/*.work .viewall {
   display: flex;
   justify-content: center;
 }
@@ -873,7 +873,7 @@ header .navbar ul li a:hover {
 .experience .content .desc p {
   font-size: 1.2rem;
 }
-/* view all button */
+/* view all button 
 .morebtn {
   display: flex;
   justify-content: center;
